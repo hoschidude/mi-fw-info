@@ -15,6 +15,11 @@ def convert_to_utc(timestamp):
     utc_time = datetime.utcfromtimestamp(timestamp).strftime('%Y-%m-%d %H:%M:%S')
     return utc_time
 
+# Function to extract URL before '?Expires'
+def extract_base_url(full_url):
+    return full_url.split('&Expires')[0]
+
+
 # Extract models for the dropdown menu
 names = {item['name']: item['model'] for item in data}
 
@@ -36,13 +41,13 @@ if name_selected:
     st.subheader('Firmware Details')
     st.write(f"**Version**: {selected_data['firmware']['version']}")
     st.write(f"**MD5**: {selected_data['firmware']['md5']}")
-    st.write(f"**Update URL**: [Download Firmware]({selected_data['firmware']['safe_url']})")
+    st.write(f"**Update URL**: [Download Firmware]({extract_base_url(selected_data['firmware']['safe_url'])})")
 
     if 'mcu_md5' in selected_data['firmware']:
         st.subheader('MCU Firmware Details')
         st.write(f"**Version**: {selected_data['firmware']['mcu_version']}")
         st.write(f"**MD5**: {selected_data['firmware']['mcu_md5']}")
-        st.write(f"**Update URL**: [Download MCU Firmware]({selected_data['firmware']['mcu_safe_url']})")
+        st.write(f"**Update URL**: [Download MCU Firmware]({extract_base_url(selected_data['firmware']['mcu_safe_url'])})")
 
 
 st.header("Disclaimer")
