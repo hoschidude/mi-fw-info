@@ -33,9 +33,9 @@ if name_selected:
 
     st.header(name_selected)
     st.subheader('General')
-    st.write(f"**Upload Time (UTC)**: {convert_to_utc(selected_data['firmware']['upload_time'])}")
+    st.write(f"**Model ID**: {model_selected}")
     st.write(f"**Change Log**: {selected_data['firmware']['changeLog']}")
-    st.write(f"**Force Update**: {'Yes' if selected_data['firmware']['force'] else 'No'}")
+    st.write(f"**Change Date (UTC)**: {convert_to_utc(selected_data['firmware']['upload_time'])}")
 
     st.subheader('Firmware Details')
     st.write(f"**Version**: {selected_data['firmware']['version']}")
