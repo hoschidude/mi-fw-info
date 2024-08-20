@@ -1,12 +1,13 @@
 import streamlit as st
 import json
+import os
 from datetime import datetime
 
-st.title("Mi Firmware Info")
-
+file_path = "data.json"
+modification_date = os.path.getmtime(file_path)
 
 data = None
-with open("data.json") as f:
+with open(file_path) as f:
     data = json.load(f)
 
 
@@ -15,11 +16,15 @@ def convert_to_utc(timestamp):
     utc_time = datetime.utcfromtimestamp(timestamp).strftime('%Y-%m-%d %H:%M:%S')
     return utc_time
 
+
+st.title("Mi Firmware Info")
+st.text(f"Snapshot: {convert_to_utc(modification_date)}")
+
 # Extract models for the dropdown menu
 names = {item['name']: item['model'] for item in data}
 
 # Create a dropdown menu for selecting the model
-name_selected = st.selectbox("Select Model", sorted(names.keys()))
+name_selected = st.selectbox("**Select Model**", sorted(names.keys()))
 
 # Display the corresponding data based on the selected model
 if name_selected:

@@ -253,18 +253,18 @@
   },
   {
     "firmware": {
-      "changeLog": "1",
+      "changeLog": "1\u3001",
       "diff_md5": "",
       "diff_safe_url": "",
       "diff_url": "",
       "force": false,
-      "md5": "a55d06e7de0329058f4d632726005ba9",
+      "md5": "9d716898e58d92675b1867e08bfa8959",
       "rec": false,
-      "safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/a55d06e7de0329058f4d632726005ba9_upd_ninebot.scooter.15.bin?GalaxyAccessKeyId=5721718224520&Expires=1730296801044&Signature=oZbVR9O0rlu4VTp1Ulwnsw0TIkY=",
+      "safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/9d716898e58d92675b1867e08bfa8959_upd_ninebot.scooter.15.bin?GalaxyAccessKeyId=5721718224520&Expires=1735364979045&Signature=J1jsOT9TlLYFm8Kv4xLKmW1lJhk=",
       "time_out": 30,
-      "upload_time": 1663918829,
-      "url": "https://fk-res-abroad-cdn.home.mi.com/default/a55d06e7de0329058f4d632726005ba9_upd_ninebot.scooter.15.bin?GalaxyAccessKeyId=5721718224520&Expires=1730296801044&Signature=oZbVR9O0rlu4VTp1Ulwnsw0TIkY=",
-      "version": "015.037.102_0003"
+      "upload_time": 1719812979,
+      "url": "https://fk-res-abroad-cdn.home.mi.com/default/9d716898e58d92675b1867e08bfa8959_upd_ninebot.scooter.15.bin?GalaxyAccessKeyId=5721718224520&Expires=1735364979045&Signature=J1jsOT9TlLYFm8Kv4xLKmW1lJhk=",
+      "version": "015.037.108_0003"
     },
     "model": "ninebot.scooter.15",
     "name": "Xiaomi Electric Scooter 4 Pro"
@@ -325,18 +325,18 @@
   },
   {
     "firmware": {
-      "changeLog": "Battery firmware strategy optimization",
+      "changeLog": "adjust the battery European regulations related content",
       "diff_md5": "",
       "diff_safe_url": "",
       "diff_url": "",
       "force": false,
-      "md5": "77fac2c7d79936aa49818244d31eb5f0",
+      "md5": "bbadb87d63c337a40e50d9f5e9d2cfde",
       "rec": false,
-      "safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/77fac2c7d79936aa49818244d31eb5f0_upd_ninebot.scooter.v17.bin?GalaxyAccessKeyId=5721718224520&Expires=1732788000502&Signature=aAVDS6XWifRUQdFrtpMxx7fqhjc=",
+      "safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/bbadb87d63c337a40e50d9f5e9d2cfde_upd_ninebot.scooter.v17.bin?GalaxyAccessKeyId=5721718224520&Expires=1735353041445&Signature=MNOWwM+2jVnHlaGfL2FQtYwAcao=",
       "time_out": 30,
-      "upload_time": 1701768654,
-      "url": "https://fk-res-abroad-cdn.home.mi.com/default/77fac2c7d79936aa49818244d31eb5f0_upd_ninebot.scooter.v17.bin?GalaxyAccessKeyId=5721718224520&Expires=1732788000502&Signature=aAVDS6XWifRUQdFrtpMxx7fqhjc=",
-      "version": "037.023.123_0005"
+      "upload_time": 1719801041,
+      "url": "https://fk-res-abroad-cdn.home.mi.com/default/bbadb87d63c337a40e50d9f5e9d2cfde_upd_ninebot.scooter.v17.bin?GalaxyAccessKeyId=5721718224520&Expires=1735353041445&Signature=MNOWwM+2jVnHlaGfL2FQtYwAcao=",
+      "version": "037.023.127_0005"
     },
     "model": "ninebot.scooter.v17",
     "name": "Xiaomi Electric Scooter 4 Pro Max"
@@ -433,18 +433,18 @@
   },
   {
     "firmware": {
-      "changeLog": "1. Improve firmware stability\n2. Fix known problems and optimize the experience",
+      "changeLog": "adjust the battery European regulations related content",
       "diff_md5": "",
       "diff_safe_url": "",
       "diff_url": "",
       "force": false,
-      "md5": "e284df52294d9350dffc82df35c311cb",
+      "md5": "8cb20e3e26200f7ff4cb6f49d42f30c8",
       "rec": false,
-      "safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/e284df52294d9350dffc82df35c311cb_upd_ninebot.scooter.v8.bin?GalaxyAccessKeyId=5721718224520&Expires=1735120800484&Signature=M3hdRjZS9mgeJ71IvemzJQnUlcE=",
+      "safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/8cb20e3e26200f7ff4cb6f49d42f30c8_upd_ninebot.scooter.v8.bin?GalaxyAccessKeyId=5721718224520&Expires=1735366119480&Signature=cq0J8bVvULNdBhmUB7wqsY9vmow=",
       "time_out": 30,
-      "upload_time": 1657687012,
-      "url": "https://fk-res-abroad-cdn.home.mi.com/default/e284df52294d9350dffc82df35c311cb_upd_ninebot.scooter.v8.bin?GalaxyAccessKeyId=5721718224520&Expires=1735120800484&Signature=M3hdRjZS9mgeJ71IvemzJQnUlcE=",
-      "version": "022.028.102_0002"
+      "upload_time": 1719814119,
+      "url": "https://fk-res-abroad-cdn.home.mi.com/default/8cb20e3e26200f7ff4cb6f49d42f30c8_upd_ninebot.scooter.v8.bin?GalaxyAccessKeyId=5721718224520&Expires=1735366119480&Signature=cq0J8bVvULNdBhmUB7wqsY9vmow=",
+      "version": "022.028.108_0002"
     },
     "model": "ninebot.scooter.v8",
     "name": "Xiaomi Electric Scooter 4 Pro"
@@ -458,10 +458,10 @@
       "force": false,
       "md5": "7e43e7c35041d36f7780a58e9f57e201",
       "rec": false,
-      "safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/7e43e7c35041d36f7780a58e9f57e201_upd_qicyc.bike.xmdzlzxc01qj.bin?GalaxyAccessKeyId=5721718224520&Expires=1721959201240&Signature=8SiVmSYC/8HBgUP/PrJ7NZnognU=",
+      "safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/7e43e7c35041d36f7780a58e9f57e201_upd_qicyc.bike.xmdzlzxc01qj.bin?GalaxyAccessKeyId=5721718224520&Expires=1737432000547&Signature=QgJaG/FRXWkhcSyGOTb5DoNh/jk=",
       "time_out": 30,
       "upload_time": 1588930054,
-      "url": "https://fk-res-abroad-cdn.home.mi.com/default/7e43e7c35041d36f7780a58e9f57e201_upd_qicyc.bike.xmdzlzxc01qj.bin?GalaxyAccessKeyId=5721718224520&Expires=1721959201240&Signature=8SiVmSYC/8HBgUP/PrJ7NZnognU=",
+      "url": "https://fk-res-abroad-cdn.home.mi.com/default/7e43e7c35041d36f7780a58e9f57e201_upd_qicyc.bike.xmdzlzxc01qj.bin?GalaxyAccessKeyId=5721718224520&Expires=1737432000547&Signature=QgJaG/FRXWkhcSyGOTb5DoNh/jk=",
       "version": "1.0.0_0703"
     },
     "model": "qicyc.bike.xmdzlzxc01qj",
@@ -469,18 +469,18 @@
   },
   {
     "firmware": {
-      "changeLog": "1. Optimize OTA upgrades\n2. Optimize 10 fault alarm display\nNew battery rule software released",
+      "changeLog": "1. Optimize OTA upgrades\n2. Optimize 10 fault alarm display\n1. Modify the controller to protect the battery from high temperature\n2. Add 21 fault code",
       "diff_md5": "",
       "diff_safe_url": "",
       "diff_url": "",
       "force": false,
-      "mcu_md5": "8caabe379df6475eec7b807238309040",
-      "mcu_safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/signed_8caabe379df6475eec7b807238309040_mcu_xiaomi.scooter.lq4lp.bin?GalaxyAccessKeyId=5721718224520&Expires=9223372036854775807&Signature=9+VtBdABkgyS8SBikDmfH75VYwk=",
-      "mcu_version": "0113",
+      "mcu_md5": "ac93c2a8bd46adebf187b4c4831a31d1",
+      "mcu_safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/signed_ac93c2a8bd46adebf187b4c4831a31d1_mcu_xiaomi.scooter.lq4lp.bin?GalaxyAccessKeyId=5721718224520&Expires=9223372036854775807&Signature=hGjeV5c0AhH9CAdQtDHsQU+N5Eo=",
+      "mcu_version": "0114",
       "md5": "2d3fe55a9abd71cdb983fdc36f71d9af",
       "rec": false,
       "safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/2d3fe55a9abd71cdb983fdc36f71d9af_upd_xiaomi.scooter.lq4lp.bin?GalaxyAccessKeyId=5721718224520&Expires=1733998138333&Signature=ycVzjucdP+kDxPL2RlaJBo5NBH4=",
-      "time_out": 30,
+      "time_out": 180,
       "upload_time": 1718446138,
       "url": "https://fk-res-abroad-cdn.home.mi.com/default/2d3fe55a9abd71cdb983fdc36f71d9af_upd_xiaomi.scooter.lq4lp.bin?GalaxyAccessKeyId=5721718224520&Expires=1733998138333&Signature=ycVzjucdP+kDxPL2RlaJBo5NBH4=",
       "version": "2.6.0_0054"
@@ -495,16 +495,16 @@
       "diff_safe_url": "",
       "diff_url": "",
       "force": false,
-      "mcu_md5": "ca23c51e4dc014518ca57ac02f13b97d",
-      "mcu_safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/ca23c51e4dc014518ca57ac02f13b97d_mcu_xiaomi.scooter.t2336.bin?GalaxyAccessKeyId=5721718224520&Expires=1731808800420&Signature=BpvTmaJ2J/EGhRA1b79UjyAldK0=",
-      "mcu_version": "0006",
-      "md5": "6dfacd0fd98c49c7f348e4e669524ecb",
+      "mcu_md5": "83ca1d23efe93e0858feff38c6ff5560",
+      "mcu_safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/83ca1d23efe93e0858feff38c6ff5560_mcu_xiaomi.scooter.t2336.bin?GalaxyAccessKeyId=5721718224520&Expires=1733636755336&Signature=DsCtq61qVN3sL2FO32Sb9SOv57A=",
+      "mcu_version": "0010",
+      "md5": "7aa8fdd7d99bd4c2c82e82741acb79fb",
       "rec": false,
-      "safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/6dfacd0fd98c49c7f348e4e669524ecb_upd_xiaomi.scooter.t2336.bin?GalaxyAccessKeyId=5721718224520&Expires=1732348800539&Signature=/Ov+Kc/Qs3886lZlFm8OSxg2wJU=",
+      "safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/7aa8fdd7d99bd4c2c82e82741acb79fb_upd_xiaomi.scooter.t2336.bin?GalaxyAccessKeyId=5721718224520&Expires=1733906291545&Signature=4krK5P2t/I3O5d1vyy1HDwWKPE4=",
       "time_out": 30,
-      "upload_time": 1701326612,
-      "url": "https://fk-res-abroad-cdn.home.mi.com/default/6dfacd0fd98c49c7f348e4e669524ecb_upd_xiaomi.scooter.t2336.bin?GalaxyAccessKeyId=5721718224520&Expires=1732348800539&Signature=/Ov+Kc/Qs3886lZlFm8OSxg2wJU=",
-      "version": "2.5.3_0011"
+      "upload_time": 1718354291,
+      "url": "https://fk-res-abroad-cdn.home.mi.com/default/7aa8fdd7d99bd4c2c82e82741acb79fb_upd_xiaomi.scooter.t2336.bin?GalaxyAccessKeyId=5721718224520&Expires=1733906291545&Signature=4krK5P2t/I3O5d1vyy1HDwWKPE4=",
+      "version": "2.5.3_0015"
     },
     "model": "xiaomi.scooter.t2336",
     "name": "Xiaomi Electric Scooter 4 Pro (2nd Gen)"
