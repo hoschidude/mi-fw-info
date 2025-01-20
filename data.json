@@ -508,5 +508,89 @@
     },
     "model": "xiaomi.scooter.t2336",
     "name": "Xiaomi Electric Scooter 4 Pro (2nd Gen)"
+  },
+  {
+    "firmware": {
+      "changeLog": "1. Fixed some known issues.\n2. Optimized user experience.",
+      "diff_md5": "",
+      "diff_safe_url": "",
+      "diff_url": "",
+      "force": false,
+      "mcu_md5": "51e90c24efa16bf5bfedab174f9c313d",
+      "mcu_safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/signed_51e90c24efa16bf5bfedab174f9c313d_mcu_xiaomi.scooter.elite.bin?GalaxyAccessKeyId=5721718224520&Expires=9223372036854775807&Signature=moRbRus0Lp8ReRY25t77QxSMPIw=",
+      "mcu_version": "0128",
+      "md5": "60c888fc1b2db8520936a015ee550e84",
+      "rec": false,
+      "safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/60c888fc1b2db8520936a015ee550e84_upd_xiaomi.scooter.elite.bin?GalaxyAccessKeyId=5721718224520&Expires=1750644519171&Signature=yA4EgTvS37XvS1Vh+cuUdyvoOzA=",
+      "time_out": 180,
+      "upload_time": 1735092519,
+      "url": "https://fk-res-abroad-cdn.home.mi.com/default/60c888fc1b2db8520936a015ee550e84_upd_xiaomi.scooter.elite.bin?GalaxyAccessKeyId=5721718224520&Expires=1750644519171&Signature=yA4EgTvS37XvS1Vh+cuUdyvoOzA=",
+      "version": "2.6.0_0034"
+    },
+    "model": "xiaomi.scooter.elite",
+    "name": "Xiaomi Electric Scooter Elite"
+  },
+  {
+    "firmware": {
+      "changeLog": "1.1 Fixed known bugs \n2.1 Optimized user experience",
+      "diff_md5": "",
+      "diff_safe_url": "",
+      "diff_url": "",
+      "force": false,
+      "mcu_md5": "aabaad0de541d7c79ca24d28c45ba097",
+      "mcu_safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/aabaad0de541d7c79ca24d28c45ba097_mcu_xiaomi.scooter.5pro.bin?GalaxyAccessKeyId=5721718224520&Expires=1743991028189&Signature=gCCPYthYARrdgsMfRWR2hOCkzFQ=",
+      "mcu_version": "0007",
+      "md5": "1c76ba994d8326dca0203a424dc09ff6",
+      "rec": false,
+      "safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/1c76ba994d8326dca0203a424dc09ff6_upd_xiaomi.scooter.5pro.bin?GalaxyAccessKeyId=5721718224520&Expires=1746600795014&Signature=rYAce0bAwhmZBrFG/8hLbZVBuL8=",
+      "time_out": 30,
+      "upload_time": 1731048795,
+      "url": "https://fk-res-abroad-cdn.home.mi.com/default/1c76ba994d8326dca0203a424dc09ff6_upd_xiaomi.scooter.5pro.bin?GalaxyAccessKeyId=5721718224520&Expires=1746600795014&Signature=rYAce0bAwhmZBrFG/8hLbZVBuL8=",
+      "version": "2.7.0_0015"
+    },
+    "model": "xiaomi.scooter.5pro",
+    "name": "Xiaomi Electric Scooter 5 Pro"
+  },
+  {
+    "firmware": {
+      "changeLog": " 1.1 Fixed known bugs\n2.1 Optimized user experience",
+      "diff_md5": "",
+      "diff_safe_url": "",
+      "diff_url": "",
+      "force": false,
+      "mcu_md5": "370dbaba96a88d7f4dd7bc8d7aafd78b",
+      "mcu_safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/370dbaba96a88d7f4dd7bc8d7aafd78b_mcu_xiaomi.scooter.5max.bin?GalaxyAccessKeyId=5721718224520&Expires=1748241108990&Signature=YEBBAYDmslMr+5yWaoTG34UQRqw=",
+      "mcu_version": "0016",
+      "md5": "f7e136e672837fcb05764f89ba808a35",
+      "rec": false,
+      "safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/f7e136e672837fcb05764f89ba808a35_upd_xiaomi.scooter.5max.bin?GalaxyAccessKeyId=5721718224520&Expires=1745304252435&Signature=/C5169IBUZ5PVek8omvPMzm68pA=",
+      "time_out": 30,
+      "upload_time": 1729752252,
+      "url": "https://fk-res-abroad-cdn.home.mi.com/default/f7e136e672837fcb05764f89ba808a35_upd_xiaomi.scooter.5max.bin?GalaxyAccessKeyId=5721718224520&Expires=1745304252435&Signature=/C5169IBUZ5PVek8omvPMzm68pA=",
+      "version": "2.7.0_0015"
+    },
+    "model": "xiaomi.scooter.5max",
+    "name": "Xiaomi Electric Scooter 5 Max"
+  },
+  {
+    "firmware": {
+      "changeLog": "1.1 Fixed known bugs \n2.1 Optimized user experience",
+      "diff_md5": "",
+      "diff_safe_url": "",
+      "diff_url": "",
+      "force": false,
+      "mcu_md5": "10755810f046ae62e16baca2ef0eb1a5",
+      "mcu_safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/10755810f046ae62e16baca2ef0eb1a5_mcu_xiaomi.scooter.0005.bin?GalaxyAccessKeyId=5721718224520&Expires=1748240835026&Signature=w64OcPWgugwwY4KCjPwObKQWxnQ=",
+      "mcu_version": "0015",
+      "md5": "c3899d85efe817f251a6844bcf01c997",
+      "rec": false,
+      "safe_url": "https://fk-res-abroad-cdn.home.mi.com/default/c3899d85efe817f251a6844bcf01c997_upd_xiaomi.scooter.0005.bin?GalaxyAccessKeyId=5721718224520&Expires=1745304460497&Signature=5OiP2XCH/Ef/JsDxEDgdgqnWw0I=",
+      "time_out": 30,
+      "upload_time": 1729752460,
+      "url": "https://fk-res-abroad-cdn.home.mi.com/default/c3899d85efe817f251a6844bcf01c997_upd_xiaomi.scooter.0005.bin?GalaxyAccessKeyId=5721718224520&Expires=1745304460497&Signature=5OiP2XCH/Ef/JsDxEDgdgqnWw0I=",
+      "version": "2.7.0_0015"
+    },
+    "model": "xiaomi.scooter.0005",
+    "name": "Xiaomi Electric Scooter 5"
   }
 ]
